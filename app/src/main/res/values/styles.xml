@@ -9,6 +9,7 @@
         <item name="windowSplashScreenAnimationDuration">3000</item>
         <!-- 启动画面退出后 Activity 的主题-->
         <item name="postSplashScreenTheme">@style/Launcher</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/brand_logo</item>
     </style>
 
     <!--    启动页下一页的Style-->
